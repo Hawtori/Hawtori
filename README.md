@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aayush Shrestha</h1>
 <h3 align="center">A passionate game programmer in Canada</h3>
 
-- 🌱 I’m currently learning **Unreal Engine and Godot**
+- 🌱 I’m currently learning **Unreal Engine and Graphics Programming**
 
-- 👨‍💻 All of my projects are available at [https://hawtori.netlify.app](https://hawtori.netlify.app)
+- 👨‍💻 All of my projects are available at [https://hawtori.vercel.app](https://hawtori.vercel.app)
 
 - 📫 How to reach me **aayushshrestha161@gmail.com or linkedin.com/in/aayushshrestha161/**
 
