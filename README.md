@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hawtori.vercel.app](https://hawtori.vercel.app)
 
-- 📫 How to reach me **aayushshrestha161@gmail.com or linkedin.com/in/aayushshrestha161/**
+- 📫 How to reach me **aayushshrestha161@gmail.com or [linkedin.com/in/aayushshrestha161/](www.linkedin.com/in/aayushshrestha161/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
